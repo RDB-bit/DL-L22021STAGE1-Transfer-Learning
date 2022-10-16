@@ -1,2 +1,2 @@
 # Transfer-Learning
- Python jupyter notebooks to exploer transfer learning
+ Python jupyter notebooks to explore transfer learning
